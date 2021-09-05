@@ -1,0 +1,5 @@
+1 1
+[2020-03-16 16:15:25] ERROR Disk size is 100 Gb
+[2020-03-16 16:15:26] ERROR Db failute
+[2020-03-16 16:15:26] ERROR Network failute
+[2020-03-16 16:15:26] ERROR Network failute
